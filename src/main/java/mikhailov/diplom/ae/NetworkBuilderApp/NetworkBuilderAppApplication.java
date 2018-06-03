@@ -15,5 +15,4 @@ public class NetworkBuilderAppApplication {
         logger.info("Start app");
         SpringApplication.run(NetworkBuilderAppApplication.class, args);
     }
-
 }
